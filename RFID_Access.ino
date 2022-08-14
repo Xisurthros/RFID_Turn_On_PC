@@ -1,5 +1,5 @@
-#define SS_PIN 4  //D2
-#define RST_PIN 5 //D1
+#define SS_PIN 10  //D2
+#define RST_PIN 9
 
 #include <SPI.h>
 #include <MFRC522.h>
